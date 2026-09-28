@@ -1,0 +1,314 @@
+{
+  "version": 3,
+  "updatedAt": "2026-09-28",
+  "carriers": [
+    {
+      "id": "ergobaby-aerloom",
+      "type": "Fullbuckle",
+      "attributes": {
+        "brand": "Ergobaby",
+        "model": "AERLOOM",
+        "standardgroesse": [
+          "Baby",
+          "Toddler"
+        ],
+        "gewicht": {
+          "from": 730,
+          "to": 730
+        },
+        "kleidergroesse": {
+          "from": 50,
+          "to": 104
+        },
+        "traegerverlauf_ueberkreuz": true,
+        "trageposition_ruecken": true,
+        "material": [
+          "Baumwolle",
+          "Tencel"
+        ],
+        "preis": {
+          "from": 199,
+          "to": 199
+        },
+        "description": "Leichtes, atmungsaktives Mesh für warme Tage."
+      }
+    },
+    {
+      "id": "manduca-xt",
+      "type": "Fullbuckle",
+      "attributes": {
+        "brand": "manduca",
+        "model": "XT",
+        "standardgroesse": [
+          "Baby",
+          "Toddler"
+        ],
+        "gewicht": {
+          "from": 740,
+          "to": 740
+        },
+        "kleidergroesse": {
+          "from": 50,
+          "to": 104
+        },
+        "trageposition_ruecken": true,
+        "trageposition_bauch": true,
+        "material": [
+          "Bio-Baumwolle"
+        ],
+        "preis": {
+          "from": 159,
+          "to": 159
+        },
+        "description": "Mitwachsendes Panel und stufenlose Anpassung."
+      }
+    },
+    {
+      "id": "didymos-tilia",
+      "type": "Halfbuckle",
+      "attributes": {
+        "brand": "Didymos",
+        "model": "Tilia",
+        "standardgroesse": [
+          "Baby",
+          "Toddler"
+        ],
+        "gewicht": {
+          "from": 680,
+          "to": 680
+        },
+        "kleidergroesse": {
+          "from": 50,
+          "to": 98
+        },
+        "traegerverlauf_ueberkreuz": true,
+        "trageposition_ruecken": true,
+        "trageposition_bauch": true,
+        "material": [
+          "Baumwolle",
+          "Leinen"
+        ],
+        "preis": {
+          "from": 189,
+          "to": 189
+        },
+        "description": "Weiches Tragegefühl mit komfortablen Schulterträgern."
+      }
+    },
+    {
+      "id": "lennylamb-lennyhybrid",
+      "type": "Halfbuckle",
+      "attributes": {
+        "brand": "LennyLamb",
+        "model": "LennyHybrid",
+        "standardgroesse": [
+          "Baby",
+          "Toddler"
+        ],
+        "gewicht": {
+          "from": 790,
+          "to": 790
+        },
+        "kleidergroesse": {
+          "from": 50,
+          "to": 98
+        },
+        "traegerverlauf_ueberkreuz": true,
+        "trageposition_ruecken": true,
+        "trageposition_bauch": true,
+        "material": [
+          "Baumwolle"
+        ],
+        "preis": {
+          "from": 179,
+          "to": 179
+        },
+        "description": "Hybrid aus Tuchgefühl und schneller Schnalle."
+      }
+    },
+    {
+      "id": "kokadi-flip",
+      "type": "Fullbuckle",
+      "attributes": {
+        "brand": "KOKADI",
+        "model": "Flip",
+        "standardgroesse": [
+          "Toddler",
+          "Preschooler"
+        ],
+        "gewicht": {
+          "from": 850,
+          "to": 850
+        },
+        "kleidergroesse": {
+          "from": 56,
+          "to": 104
+        },
+        "traegerverlauf_ueberkreuz": true,
+        "trageposition_ruecken": true,
+        "trageposition_bauch": true,
+        "material": [
+          "Bio-Baumwolle"
+        ],
+        "preis": {
+          "from": 169,
+          "to": 169
+        },
+        "description": "Farbenfrohe Komforttrage für den Alltag."
+      }
+    },
+    {
+      "id": "buzzidil-baby",
+      "type": "Fullbuckle",
+      "attributes": {
+        "brand": "Buzzidil",
+        "model": "Baby",
+        "standardgroesse": [
+          "Baby"
+        ],
+        "gewicht": {
+          "from": 760,
+          "to": 760
+        },
+        "kleidergroesse": {
+          "from": 50,
+          "to": 86
+        },
+        "trageposition_bauch": true,
+        "material": [
+          "Baumwolle"
+        ],
+        "preis": {
+          "from": 159,
+          "to": 159
+        },
+        "description": "Kompakte Babytrage mit breitem, verstellbarem Steg."
+      }
+    },
+    {
+      "id": "fidella-fusion",
+      "type": "Fullbuckle",
+      "attributes": {
+        "brand": "FIDELLA",
+        "model": "Fusion",
+        "standardgroesse": [
+          "Baby",
+          "Toddler"
+        ],
+        "gewicht": {
+          "from": 780,
+          "to": 780
+        },
+        "kleidergroesse": {
+          "from": 50,
+          "to": 104
+        },
+        "traegerverlauf_ueberkreuz": true,
+        "trageposition_ruecken": true,
+        "trageposition_bauch": true,
+        "material": [
+          "Baumwolle"
+        ],
+        "preis": {
+          "from": 149,
+          "to": 149
+        },
+        "description": "Einfaches Handling und flexible Panelbreite."
+      }
+    },
+    {
+      "id": "didymos-meitai",
+      "type": "Mei Tai",
+      "attributes": {
+        "brand": "Didymos",
+        "model": "Mei Tai",
+        "standardgroesse": [
+          "Baby",
+          "Toddler"
+        ],
+        "gewicht": {
+          "from": 560,
+          "to": 560
+        },
+        "kleidergroesse": {
+          "from": 50,
+          "to": 92
+        },
+        "trageposition_ruecken": true,
+        "trageposition_bauch": true,
+        "material": [
+          "Baumwolle",
+          "Hanf"
+        ],
+        "preis": {
+          "from": 135,
+          "to": 135
+        },
+        "description": "Traditionelle Bindung mit modernem Komfort."
+      }
+    },
+    {
+      "id": "mustermarke-testtrage",
+      "type": "Fullbuckle",
+      "attributes": {
+        "production_end": "",
+        "discontinued": true,
+        "model": "Testtrage",
+        "brand": "Mustermarke",
+        "standardgroesse": [
+          "Baby",
+          "Preschooler",
+          "Toddler"
+        ],
+        "gewicht": {
+          "from": 500,
+          "to": 800
+        },
+        "gewkicht_kind": {
+          "from": 5,
+          "to": 20
+        },
+        "stegbreite": {
+          "from": 5,
+          "to": 40
+        },
+        "kleidergroesse": {
+          "from": 20,
+          "to": 80
+        },
+        "traegerverlauf_parallel": true,
+        "traegerverlauf_ueberkreuz": true,
+        "bauchgurt": [
+          "Gepolstert",
+          "Flach"
+        ],
+        "traeger_gepolstert": false,
+        "traeger_flach": true,
+        "traeger_auffaecherbar": true,
+        "material": [
+          "Baumwolle"
+        ],
+        "preis": {
+          "from": 10,
+          "to": 100
+        },
+        "steg_verstellbar_knoepfe": false,
+        "steg_verstellbar_klett_ohne_tunnel": false,
+        "steg_verstellbar_tunnelzug": true,
+        "steg_verstellbar_kordel": false,
+        "steg_verstellbar_ueber_bindeweise": false,
+        "steg_verstellbar_nciht": false,
+        "trageposition_bauch": true,
+        "trageposition_ruecken": true,
+        "trageposition_seite": true,
+        "trageposition_nach_vorne_gerichtet": false,
+        "traeger_ende": [
+          "Oben",
+          "Mitte",
+          "Unten"
+        ],
+        "description": "Geiles teil"
+      }
+    }
+  ]
+}
